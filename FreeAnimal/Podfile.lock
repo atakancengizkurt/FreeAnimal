@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - Cache (4.2.0)
+  - Hue (3.0.1)
+  - Imaginary (3.0.3):
+    - Cache (~> 4.0)
+  - Lightbox (2.1.2):
+    - Hue (~> 3.0)
+    - Imaginary (~> 3.0)
+  - SVProgressHUD (2.2.5)
+  - SwipeView (1.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Lightbox
+  - SVProgressHUD
+  - SwipeView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Cache
+    - Hue
+    - Imaginary
+    - Lightbox
+    - SVProgressHUD
+    - SwipeView
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  Cache: f28f8dd64b632155aabf9b3906b036a659048251
+  Hue: 93e852fa6211ab35922ad8c293f51c43d6c79eb2
+  Imaginary: 9b45836a5af881f452a86e0a1215772ae4712d00
+  Lightbox: 2dc267df8be2285bc7724cb11cbbf4aaaf59dced
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwipeView: bd67cfaf7760c036438446b3ccb28a3b84fce009
+
+PODFILE CHECKSUM: b3c51d2c94c24016586a6519923e0a4daa755a70
+
+COCOAPODS: 1.5.3
