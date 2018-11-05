@@ -1,5 +1,5 @@
 # FreeAnimal
 
-list animals with Unsplash API
+List animals with Unsplash API
 
 ![](Banner.png)
