@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import Lightbox
 import Alamofire
 import AlamofireImage
 import SVProgressHUD
